@@ -1,1 +1,1 @@
-BASE_URL = "https://prod.example.com"
+BASE_URL = "https://prodd.example.com"
